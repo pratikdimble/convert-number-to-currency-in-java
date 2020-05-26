@@ -1,4 +1,3 @@
-package com.erpproject.api.accounting.common;
 
 public class ConvertNumerToDollarNumbering {
 
