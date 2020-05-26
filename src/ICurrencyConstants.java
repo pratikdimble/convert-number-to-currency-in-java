@@ -1,4 +1,3 @@
-package com.erpproject.api.accounting.common;
 
 public interface ICurrencyConstants {
 	String END_STRING = "Only.";
@@ -29,7 +28,7 @@ public interface ICurrencyConstants {
 	Integer CLP_PESOS_ID = 24;
 	Integer CNY_YUAN_RENMINBI_ID = 25;
 	Integer COP_PESOS_ID = 26;
-	Integer CRC_COLÓN_ID = 27;
+	Integer CRC_COLÃ“N_ID = 27;
 	Integer HRK_KUNA_ID = 28;
 	Integer CUP_PESOS_ID = 29;
 	Integer CZK_KORUNY_ID = 30;
